@@ -8,7 +8,7 @@ This GitHub repository contains all the Jupyter Notebooks and any additional nec
 
 1) a folder named "Notebook" containing the "Prediction" notebook
 
-2) a folder named "Datasets" containing all two datasets used for the training and testing of the LSTM model
+2) a folder named "Datasets" containing the two datasets used for the training and testing of the LSTM model
 
 3) a folder named "Report" containing the report of this project
 
