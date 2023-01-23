@@ -1,6 +1,6 @@
 # Predicting-the-next-request-of-a-data-buffer-using-Neural-Networks
 
-This project aims to show how to predict the next request of memory inside a buffer by using any Neural Network. In our case we will use an LSTM model.
+This project aims to show how to predict the next request of memory inside a buffer by using any Neural Network and in our case we will use an LSTM model.
 
 First of all, all files mentioned below, except the report of course, must be placed in the same folder for the notebooks to properly work. In the GitHub repository they are separated in different folders only for the purposes of clarification and order.
 
